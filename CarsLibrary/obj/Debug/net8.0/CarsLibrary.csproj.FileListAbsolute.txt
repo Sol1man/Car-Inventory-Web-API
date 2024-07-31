@@ -1,0 +1,14 @@
+E:\Web API App\CarsLibrary\bin\Debug\net8.0\CarsLibrary.deps.json
+E:\Web API App\CarsLibrary\bin\Debug\net8.0\CarsLibrary.runtimeconfig.json
+E:\Web API App\CarsLibrary\bin\Debug\net8.0\CarsLibrary.dll
+E:\Web API App\CarsLibrary\bin\Debug\net8.0\CarsLibrary.pdb
+E:\Web API App\CarsLibrary\obj\Debug\net8.0\CarsLibrary.csproj.AssemblyReference.cache
+E:\Web API App\CarsLibrary\obj\Debug\net8.0\CarsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Web API App\CarsLibrary\obj\Debug\net8.0\CarsLibrary.AssemblyInfoInputs.cache
+E:\Web API App\CarsLibrary\obj\Debug\net8.0\CarsLibrary.AssemblyInfo.cs
+E:\Web API App\CarsLibrary\obj\Debug\net8.0\CarsLibrary.csproj.CoreCompileInputs.cache
+E:\Web API App\CarsLibrary\obj\Debug\net8.0\CarsLibrary.dll
+E:\Web API App\CarsLibrary\obj\Debug\net8.0\refint\CarsLibrary.dll
+E:\Web API App\CarsLibrary\obj\Debug\net8.0\CarsLibrary.pdb
+E:\Web API App\CarsLibrary\obj\Debug\net8.0\CarsLibrary.genruntimeconfig.cache
+E:\Web API App\CarsLibrary\obj\Debug\net8.0\ref\CarsLibrary.dll
